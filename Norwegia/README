@@ -1,0 +1,42 @@
+# 🌌 Światła Północy: Tajemnicze Zjawisko Aurora Borealis w Norwegii
+
+Witaj w moim projekcie dotyczącym zorzy polarnej w Norwegii! 🇳🇴 To repozytorium zawiera szczegółowy reportaż na temat tego niezwykłego zjawiska, które można podziwiać na północy Norwegii. 🎨✨
+
+## 📚 Spis treści
+
+- [🌍 Wprowadzenie](#wprowadzenie)
+- [📂 Zawartość](#zawartość)
+- [🛠 Technologie](#technologie)
+- [🚀 Jak uruchomić](#jak-uruchomić)
+- [📸 Zrzuty ekranu](#zrzuty-ekranu)
+
+
+## 🌍 Wprowadzenie
+
+Norwegia, znana ze swoich zapierających dech w piersiach krajobrazów, po raz kolejny przyciągnęła uwagę turystów i naukowców dzięki niezwykłemu spektaklowi naturalnemu – aurorze borealis, czyli zorzy polarnej. To niezwykłe zjawisko, które rozświetla nocne niebo barwnymi tańcami świateł, fascynuje ludzi od wieków.
+
+## 📂 Zawartość
+
+- **index.html**: Główny plik HTML zawierający reportaż o zorzy polarnej w Norwegii.
+- **im/**: Folder zawierający obrazy użyte w projekcie.
+  - **f.png**: Statyczna flaga Norwegii.
+  - **fg.gif**: Animowana flaga Norwegii.
+
+## 🛠 Technologie
+
+W moim projekcie korzystam z następujących technologii:
+
+- 🏷️ HTML5
+
+## 🚀 Jak uruchomić
+
+Aby zobaczyć reportaż, wystarczy, że otworzysz plik `index.html` w przeglądarce. 📄
+
+## 📸 Zrzuty ekranu
+
+![Flaga Norwegii](im/f.png)
+![Animowana Flaga Norwegii](im/fg.gif)
+
+
+
+Dziękuję za odwiedzenie mojego repozytorium! 🙌
