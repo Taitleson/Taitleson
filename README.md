@@ -6,4 +6,4 @@
 * HTML/CSS/JS 🤐👈
 - 💞️ I’m looking to collaborate on any tipe of project
 - 📫 How to reach me DC: ASC#1011
--🐧 Im using NixOS\Manjaro as a main OS
+- 🐧 Im using NixOS\Manjaro as a main OS
